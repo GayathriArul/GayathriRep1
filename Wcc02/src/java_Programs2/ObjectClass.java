@@ -12,8 +12,7 @@ public class ObjectClass
 		System.out.println(b1==b2); //false => comparing 2 reference of the objects
 		System.out.println(b1.equals(b2));
 		System.out.println(b1.hashCode());
-		System.out.println(b2.hashCode());
-		
+		System.out.println(b2.hashCode());	
 	}
 
 }

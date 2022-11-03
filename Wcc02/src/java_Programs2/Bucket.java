@@ -8,9 +8,6 @@ public class Bucket
 		System.out.println("Color is "+ b.getcolor());
 		b.setcolor("Blue");
 		System.out.println("the modified color is "+b.getcolor());
-		
-		
-
 
 	}}
 
